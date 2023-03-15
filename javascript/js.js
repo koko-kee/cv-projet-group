@@ -12,7 +12,7 @@ function upload() {
   second += 1;
   if (second == 60) {
     second = 0;
-    minute += 1;
+    minute += 2;
   }
 
   if (minute == 60) {
